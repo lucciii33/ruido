@@ -18,7 +18,7 @@ export default function PostDetail() {
   if (!post) {
     return (
       <main className="min-h-screen flex items-center justify-center">
-        <p>Post no encontrado!!</p>
+        <p>Post no encontrado</p>
       </main>
     );
   }
