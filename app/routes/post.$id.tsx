@@ -1,9 +1,19 @@
 import { useParams, Link } from "react-router";
 import { posts } from "~/utils/api";
+import mixpanel from "mixpanel-browser";
+import { useEffect } from "react";
 
 export default function PostDetail() {
   const { id } = useParams();
   const post = posts.find((p) => String(p.id) === String(id));
+  useEffect(() => {
+    if (typeof window !== "undefined" && mixpanel.__loaded && post) {
+      mixpanel.track("Page View: PostDetail", {
+        id: post.id,
+        title: post.title,
+      });
+    }
+  }, []);
 
   if (!post) {
     return (
@@ -27,7 +37,12 @@ export default function PostDetail() {
 
       <h1 className="text-4xl font-serif tracking-tight mb-6">{post.title}</h1>
 
-      <p className="whitespace-pre-line leading-relaxed">{post.description}</p>
+      <p
+        style={{ whiteSpace: "pre-line" }}
+        className="whitespace-pre-line leading-relaxed"
+      >
+        {post.description}
+      </p>
     </main>
   );
 }
