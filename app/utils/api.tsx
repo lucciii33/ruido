@@ -161,4 +161,63 @@ El ego no se destruye, se reconoce.
  Porque entenderlo es el primer paso para recuperar lo que realmente importa:
  la capacidad de sentir sin miedo, de escuchar sin juicio y de amar sin necesitar ganar.`,
   },
+  {
+    id: 4,
+    title: "La Vida",
+    image: "/images/vida.png",
+    description: `La vida nunca ha sido de lo que logras, siempre ha sido lo que superas.
+    Nunca ha sido de hacia dónde vas, sino de entender a dónde ya no quieres volver.
+    No se trata de encontrarte, se trata de entender que ya no quieres ser aquello que fuiste,
+    de soltar sin miedo, de mirar al frente aunque el pasado todavía duela.
+
+    La vida no te debe nada, amigo.
+    Tú le debes a ella:
+    le debes la oportunidad de poder soñar,
+    de poder levantarte un día más,
+    de darte otra oportunidad para intentar, para creer, para volver a empezar.
+
+    ¿Que no estás donde querías estar?
+    Tal vez no.
+    Pero mira atrás.
+    Mira todo lo que te costó llegar hasta aquí.
+    Todo lo que aguantaste en silencio.
+    Todo lo que superaste sin contarlo.
+    Cada vez que la vida te tiró al piso y aun así te levantaste, sin que nadie te aplaudiera.
+
+    No se trata de brillar, se trata de resistir.
+    De seguir de pie aunque tiemble todo.
+    De no perder la fe, aunque duela, aunque nadie te entienda.
+
+    Has cambiado más de lo que crees.
+    Has crecido, aunque todavía duela mirar atrás.
+    Tienes heridas que ya no sangran, solo te recuerdan lo lejos que llegaste.
+
+    Voltea, por favor…
+    VOLTEA.
+    Mírate con calma.
+    No con culpa, no con exigencia.
+    Mírate como se mira a alguien que ha sobrevivido.
+    Porque eso eres: alguien que sobrevivió a todo lo que pensó que no iba a poder.
+
+    Y si alguna vez te preguntas “¿por qué me pasa esto a mí?”,
+    recuerda: las cosas no te pasan a ti, solo pasan.
+    No todo tiene sentido, y no todo necesita tenerlo.
+    La vida no se explica, se vive.
+    Y tú, aunque no lo creas, la estás viviendo como puedes… y eso ya vale.
+
+    No mires el jardín del vecino, no sabes cuánto le costó florecer.
+    El tuyo también va a crecer, aunque hoy solo veas tierra.
+    Ensúcate las manos, cuídalo, riégalo con paciencia.
+    Mientras tanto, tómate un café,
+    respira,
+    abraza a los tuyos.
+    Ríe aunque no haya motivos.
+    A veces la felicidad no está en llegar, está en resistir sin perder la ternura.
+
+    Así que sigue.
+    No porque todo esté bien,
+    sino porque aún queda algo dentro de ti que se niega a rendirse.
+    Y eso, amigo,
+    eso es lo que te va a salvar.`,
+  },
 ];
