@@ -165,7 +165,7 @@ El ego no se destruye, se reconoce.
     id: 4,
     title: "La Vida",
     image: "/images/vida.png",
-    description: `La vida nunca ha sido de lo que logras, siempre ha sido lo que superas.
+    description: `La vida nunca ha sido lo que logras, siempre ha sido lo que superas.
     Nunca ha sido de hacia dónde vas, sino de entender a dónde ya no quieres volver.
     No se trata de encontrarte, se trata de entender que ya no quieres ser aquello que fuiste,
     de soltar sin miedo, de mirar al frente aunque el pasado todavía duela.
