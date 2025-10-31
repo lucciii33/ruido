@@ -220,4 +220,41 @@ El ego no se destruye, se reconoce.
     Y eso, amigo,
     eso es lo que te va a salvar.`,
   },
+
+  {
+    id: 5,
+    title: "Mi Vida No Es Tu Cuestionario",
+    image: "/images/preguntas.png",
+    description: `Me preguntas cosas con la misma arrogancia con la que otro podría hacer una pregunta grosera.
+    No, no son lo mismo, pero el punto es la invasión y la certeza absoluta de tu juicio.
+
+    ¿Crees que tu perspectiva es la única respuesta "correcta"?
+    Esa "corrección" solo existe en los mantras de mentes cerradas.
+    ¿Acaso nuestras malditas experiencias de vida son idénticas para que te sientas con derecho a juzgar mis decisiones o lo que hago?
+
+    ¿Para qué preguntas algo si solo quieres escuchar tu propio eco y no lo que de verdad siento o pienso?
+    ¿Qué te importa la opinión de los demás si nunca cambias la tuya, incluso cuando te has dado cuenta de que estabas equivocada?
+
+    Estás tan atado a tu pasado y a tu falta de humildad que no puedes avanzar.
+    El pasado tiene una sola función: enseñarte.
+    Pero quien tiene los ojos vendados por su propia soberbia jamás aprenderá.
+
+    Hablo de esas personas que confunden curiosidad con intromisión y consejo con control.
+    Cree que opinar es un derecho divino y no un acto de respeto mutuo.
+    Hablan como si tuvieran la fórmula universal de la vida, sin entender que lo que a ellos les funcionó no es la medida de todo.
+
+    No entienden que hay silencios que no necesitan ser llenados con preguntas,
+    ni decisiones que deban ser validadas por nadie más.
+    Porque hay elecciones que nacen del dolor, de la experiencia, del crecimiento…
+    y no necesitan explicación.
+
+    A veces el mayor acto de empatía no es preguntar, sino aceptar.
+    No es insistir, sino escuchar.
+    No es imponer, sino comprender que cada uno carga con su propio camino,
+    y que no todos los caminos llevan al mismo destino.
+
+    Así que la próxima vez que sientas la urgencia de cuestionar la vida ajena, recuerda:
+    no todos viven buscando tu aprobación.
+    Algunos simplemente están viviendo, y eso ya es suficiente.`,
+  },
 ];
